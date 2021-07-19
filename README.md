@@ -18,4 +18,6 @@
 - 발단 - 코로나로 인한 코인노래방 출입 불가
 - 아이디어 - 요새 유행하는 메타버스, mz세대에게 유행하는 플랫폼 형식(틱톡)
 
+# Architecture
 
+![Architecture](https://user-images.githubusercontent.com/61110132/126090411-d37b9465-da5e-4404-baa2-26a72f7e02b9.PNG)
