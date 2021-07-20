@@ -20,4 +20,4 @@
 
 # Architecture
 
-![Architecture](https://user-images.githubusercontent.com/61110132/126090411-d37b9465-da5e-4404-baa2-26a72f7e02b9.PNG)
+![Encore-AI-Project-Team2-007](https://user-images.githubusercontent.com/61110132/126266240-7cccb4ee-bb91-4d62-9622-46c9a627213c.jpg)
