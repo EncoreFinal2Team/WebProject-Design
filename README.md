@@ -1,6 +1,20 @@
 # 회의록
 [회의록](https://docs.google.com/document/d/1rpe6h6arZPnXDNhKevo1th57W6mOq_QvDpW1lADAgg8/edit)
-
+# 개발환경
+|개발환경|버전|
+|-------|----|
+|SpringBoot| |
+|JDK|1.8|
+|Tomcat|8.5|
+|Vue.js||
+|Python3|3.7|
+|Django||
+|MySQL||
+|AWS EC2||
+|AWS S3||
+|AWS RDS||
+|NGINIX||
+|UWSGI||
 
 # 주제
 
