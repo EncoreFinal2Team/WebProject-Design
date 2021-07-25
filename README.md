@@ -8,11 +8,11 @@
 |JDK|1.8|
 |Tomcat|8.5|
 |Mybatis||
-|MySQL||
+|MySQL|8.0.21|
 ## Python 
 |Python|Version|
 |------|---|
-|Python3|3.7|
+|Python3|3.8|
 |Django||
 |MySQL||
 ## Front-end
