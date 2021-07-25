@@ -32,7 +32,10 @@
 |Tomcat|8.5|
 
 # front-ui
-[OVEN](https://ovenapp.io/view/HtqHXx7aBeSJU5vpdH3DcpfE5vHiTviI/VqAfE)
+[OVEN-Concept](https://ovenapp.io/view/HtqHXx7aBeSJU5vpdH3DcpfE5vHiTviI/VqAfE)
+
+![UI](https://user-images.githubusercontent.com/61110132/126902024-667868e4-385b-4754-9ba4-91980123a801.PNG)
+
 # 주제
 
     현재 코로나 사태로 인한 사회적 거리두기로 외출이 자제되는 상황을 겪고 있습니다. 
