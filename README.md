@@ -2,7 +2,7 @@
 [회의록](https://docs.google.com/document/d/1rpe6h6arZPnXDNhKevo1th57W6mOq_QvDpW1lADAgg8/edit)
 # 개발환경
 ## Java
-|Java|Version|
+|name|Version|
 |-------|----|
 |SpringBoot(Maven)| |
 |JDK|1.8|
@@ -10,15 +10,17 @@
 |Mybatis||
 |MySQL|8.0.21|
 ## Python 
-|Python|Version|
+|name|Version|
 |------|---|
 |Python3|3.8|
 |Django||
 |MySQL||
 ## Front-end
-|JavaScripts|version|
+|name|version|
 |-------|----|
+|Bootstrap|
 |Vue.js||
+
 ## AWS INFRA
 |AWS|Version|
 |-------|----|
