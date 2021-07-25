@@ -1,7 +1,8 @@
-# 회의록
+## 회의록
 [회의록](https://docs.google.com/document/d/1rpe6h6arZPnXDNhKevo1th57W6mOq_QvDpW1lADAgg8/edit)
-# 개발환경
-## Java
+## 개발환경
+
+### Java
 |name|Version|
 |-------|----|
 |SpringBoot(Maven)| |
@@ -9,19 +10,19 @@
 |Tomcat|8.5|
 |Mybatis||
 |MySQL|8.0.21|
-## Python 
+### Python 
 |name|Version|
 |------|---|
 |Python3|3.8|
 |Django||
 |MySQL||
-## Front-end
+### Front-end
 |name|version|
 |-------|----|
 |Bootstrap|
 |Vue.js||
 
-## AWS INFRA
+### AWS INFRA
 |AWS|Version|
 |-------|----|
 |AWS EC2||
@@ -31,14 +32,25 @@
 |Uwsgi||
 |Tomcat|8.5|
 
-# front-ui
+## 역할
+|이름|역할|
+|----|----|
+|최예준|front,back-end|
+|하가영|front,back-end|
+|원광연|front,back-end|
+|변준영|front,back-end|
+|윤슬아|python back-end|
+|김진영|python back-end|
+|나예지|front,back-end|
+
+## front-ui
 [OVEN-Concept](https://ovenapp.io/view/HtqHXx7aBeSJU5vpdH3DcpfE5vHiTviI/VqAfE)
 
 ![UI](https://user-images.githubusercontent.com/61110132/126902024-667868e4-385b-4754-9ba4-91980123a801.PNG)
-# Gantt chart
+## Gantt chart
 [Gantt Chart](https://docs.google.com/spreadsheets/d/1d88-u1VB4C1CW3FK-FYwcWJj8KKWD_qBKjt8XCe4ACQ/edit#gid=0)
 
-# 주제
+## 주제
 
     현재 코로나 사태로 인한 사회적 거리두기로 외출이 자제되는 상황을 겪고 있습니다. 
     이런 상황으로 인해, 타인과 즐길 수 있는 가상 공간 메타버스에서 아이디어를 도출 하여 웹 노래방을 개발하게 되었습니다. 
@@ -54,6 +66,13 @@
 - 발단 - 코로나로 인한 코인노래방 출입 불가
 - 아이디어 - 요새 유행하는 메타버스, mz세대에게 유행하는 플랫폼 형식(틱톡)
 
-# Architecture
-
+## Architecture
 ![Encore-AI-Project-Team2-007](https://user-images.githubusercontent.com/61110132/126266240-7cccb4ee-bb91-4d62-9622-46c9a627213c.jpg)
+
+## SRS
+
+## DB Modeling
+
+## Usecase Diagram
+
+## Business Logic
