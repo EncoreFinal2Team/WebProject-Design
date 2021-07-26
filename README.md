@@ -5,7 +5,7 @@
 ### Java
 |name|Version|
 |-------|----|
-|SpringBoot(Maven)| |
+|SpringBoot(Maven)|2.5.3 |
 |JDK|1.8|
 |Tomcat|8.5|
 |Mybatis||
